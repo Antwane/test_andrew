@@ -1,1 +1,2 @@
 Testing merge tool DiffToolBranch
+Testing merg tool line 2
