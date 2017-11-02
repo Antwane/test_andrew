@@ -1,5 +1,5 @@
 Testing merge tool diff change
-Test Branch Line 2
+Line 2
 Line 3
-Test Branch Line 4
+Line 4
 Line 5
